@@ -1,0 +1,7 @@
+==admin==
+admin
+pass : 1
+
+==pelanggan==
+aufa@gmail.com
+pass : 6368
